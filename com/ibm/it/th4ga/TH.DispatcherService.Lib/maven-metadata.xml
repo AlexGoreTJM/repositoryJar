@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>com.ibm.it.th4ga</groupId>
+  <artifactId>TH.DispatcherService.Lib</artifactId>
+  <versioning>
+    <versions>
+      <version>0.0.7-SNAPSHOT</version>
+    </versions>
+    <lastUpdated>20190308134141</lastUpdated>
+  </versioning>
+</metadata>

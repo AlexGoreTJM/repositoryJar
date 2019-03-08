@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata modelVersion="1.1.0">
+  <groupId>com.ibm.it.th4ga</groupId>
+  <artifactId>TH.DispatcherService.Lib</artifactId>
+  <version>0.0.7-SNAPSHOT</version>
+  <versioning>
+    <snapshot>
+      <timestamp>20190308.134141</timestamp>
+      <buildNumber>1</buildNumber>
+    </snapshot>
+    <lastUpdated>20190308134141</lastUpdated>
+    <snapshotVersions>
+      <snapshotVersion>
+        <extension>jar</extension>
+        <value>0.0.7-20190308.134141-1</value>
+        <updated>20190308134141</updated>
+      </snapshotVersion>
+      <snapshotVersion>
+        <extension>pom</extension>
+        <value>0.0.7-20190308.134141-1</value>
+        <updated>20190308134141</updated>
+      </snapshotVersion>
+      <snapshotVersion>
+        <classifier>tests</classifier>
+        <extension>jar</extension>
+        <value>0.0.7-20190308.134141-1</value>
+        <updated>20190308134141</updated>
+      </snapshotVersion>
+    </snapshotVersions>
+  </versioning>
+</metadata>
